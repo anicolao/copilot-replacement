@@ -1,0 +1,15 @@
+{
+  "name": "copilot-replacement",
+  "version": "1.0.0",
+  "description": "A project to extract and replace GitHub Copilot's agentic interface functionality with a non-rate limited alternative.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@github/copilot": "^0.0.358"
+  }
+}
